@@ -1,7 +1,7 @@
 ## 🙋🏻 About Me:
 Hi👋, I'm ***Danilo***<br>A passionate 💚💛 QA Engineer from Brazil<br><!--<br>🔭 I'm looking for job openings: **QA Tester, QA Engineer, Software Tester, Tech Lead**-->
 ### 📚 Roadmap:
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e79929d8455747573bfc07?variant=dark&roadmaps=qa)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e79929d8455747573bfc07?variant=dark&roadmaps=qa%2Cjavascript%2C66572bdeb998f3b3c7c65ec6)](https://roadmap.sh)
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
