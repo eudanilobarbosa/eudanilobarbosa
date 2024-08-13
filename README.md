@@ -1,7 +1,7 @@
 ## 🙋🏻 About Me:
 Hi👋, I'm ***Danilo***<br>A passionate 💚💛 QA Engineer from Brazil<br><!--<br>🔭 I'm looking for job openings: **QA Tester, QA Engineer, Software Tester, Tech Lead**-->
 ### 📚 Roadmap:
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e79929d8455747573bfc07?variant=dark&roadmaps=qa%2Cpython%2Cjavascript%2C66572bdeb998f3b3c7c65ec6)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65e79929d8455747573bfc07?variant=dark&roadmaps=qa%2Cpython%2Cjavascript)](https://roadmap.sh)
 
 ### 💻 Tech Stack:
 ##### Gerenciamento de Ciclo de Vida de Aplicativos (ALM)
