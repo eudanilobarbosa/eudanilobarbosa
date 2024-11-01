@@ -17,7 +17,7 @@ A passionate ~~☕ café lover~~ QA Engineer from Brazil 💚💛 <br><!--<br>�
 ![WordPress CMS](https://img.shields.io/badge/WordPress_CMS-21759B?style=flat&logo=wordpress&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white)
+![Oracle PL/SQL Developer](https://img.shields.io/badge/Oracle_PL/SQL_Developer-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) 
