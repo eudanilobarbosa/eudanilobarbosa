@@ -12,7 +12,7 @@ A passionate ~~☕ café lover~~ QA Engineer from Brazil 💚💛 <br><!--<br>�
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)
 
 ![WordPress CMS](https://img.shields.io/badge/WordPress_CMS-21759B?style=flat&logo=wordpress&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
